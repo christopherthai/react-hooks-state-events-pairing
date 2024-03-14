@@ -10,3 +10,27 @@ body {
 .App {
   text-align: center;
 }
+
+#hide-comments-button{
+  position: absolute;
+  bottom: 600px;
+}
+
+#line {
+  position: relative;
+  bottom: -40px;
+}
+
+
+#comments-count {
+  text-align: center
+}
+
+#comment {
+  text-align: center;
+  
+}
+
+#hide-comments {
+  visibility: hidden;
+}
